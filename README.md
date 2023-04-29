@@ -28,9 +28,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Postgress](https://img.shields.io/badge/-Postgress-05122A?style=flat&logo=Postgress)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
-![C#](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=C#)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp%20-05122A?style=flat&logo=CSharp)&nbsp;
 
 
 
