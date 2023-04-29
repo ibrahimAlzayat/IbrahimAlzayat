@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/ibrahim-alzayat/" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Alzayat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![Mendix](https://img.shields.io/badge/-Mendix-05122A?style=flat&logo=Mendix)&nbsp;
+![Mendix](https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133443%3Fs%3D280%26v%3D4&tbnid=SBe-xNP6j-irwM&vet=12ahUKEwilnZqVvc7-AhUfpycCHfHZATUQMygAegUIARC5AQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fmendix&docid=5xmhAyHgrLvKQM&w=280&h=280&q=mendix%20icon&ved=2ahUKEwilnZqVvc7-AhUfpycCHfHZATUQMygAegUIARC5AQ)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
