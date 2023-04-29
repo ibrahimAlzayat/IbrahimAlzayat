@@ -31,6 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp%20-05122A?style=flat&logo=CSharp)&nbsp;
+![SOAP](https://img.shields.io/badge/-SOAP%20-05122A?style=flat&logo=SOAP)&nbsp;
 
 
 
