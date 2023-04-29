@@ -22,6 +22,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Mendix](https://img.shields.io/badge/-Mendix-05122A?style=flat&logo=Mendix&logoColor=0000CD)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp%20-05122A?style=flat&logo=CSharp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -29,11 +31,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp%20-05122A?style=flat&logo=CSharp)&nbsp;
-![Integration](https://img.shields.io/badge/-Integration%20-05122A?style=flat&logo=Integration)&nbsp;
-![RESTful](https://img.shields.io/badge/-RESTful%20-05122A?style=flat&logo=RESTful)&nbsp;
-![REST](https://img.shields.io/badge/-REST%20-05122A?style=flat&logo=REST)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimAlzayat&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
