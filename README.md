@@ -30,7 +30,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
-![C#](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=CSharp)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp%20-05122A?style=flat&logo=C#)&nbsp;
 
 
 
