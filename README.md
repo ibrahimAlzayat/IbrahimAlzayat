@@ -31,9 +31,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp%20-05122A?style=flat&logo=CSharp)&nbsp;
-![SOAP](https://img.shields.io/badge/-SOAP%20-05122A?style=flat&logo=SOAP)&nbsp;
-
-
+![Integration](https://img.shields.io/badge/-Integration%20-05122A?style=flat&logo=Integration)&nbsp;
+![RESTful](https://img.shields.io/badge/-RESTful%20-05122A?style=flat&logo=RESTful)&nbsp;
+![REST](https://img.shields.io/badge/-REST%20-05122A?style=flat&logo=REST)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimAlzayat&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
